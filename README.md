@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently I'm studying at ISA Bootcamp to start new job as a Junior Front End Developer.
+Graduate of InfoShare Academy Bootcamp to start new job as a Junior Front End Developer.
 
 
 ## 🌐 Socials:
