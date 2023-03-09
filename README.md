@@ -15,9 +15,6 @@ Graduate of InfoShare Academy Bootcamp to start new job as a Junior Front End De
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ValentinoMaciej&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=maciejw1988)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
